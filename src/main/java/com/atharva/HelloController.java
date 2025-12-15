@@ -27,7 +27,7 @@ public class HelloController {
             case "THURSDAY":
                 return "<h2>Almost Friday — keep the energy up!</h2>";
             case "FRIDAY":
-                return "<h2>Weekend vibes incoming! 🎉</h2>";
+                return "<h2>Weekend vibes 🎉</h2>";
             case "SATURDAY":
                 return "<h2>Relax, recharge, and enjoy your weekend! 🌞</h2>";
             case "SUNDAY":
