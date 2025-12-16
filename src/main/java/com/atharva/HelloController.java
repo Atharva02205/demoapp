@@ -9,7 +9,7 @@ public class HelloController {
 
     @GetMapping("/")
     public String home() {
-        return "<h1>Welcome to Atharva’s Cloud Storage with spring boot🌍</h1>"
+        return "<h1>Welcome to Atharva’s Cloud Storage with Grow Indi🌍</h1>"
              + "<p>Try visiting these links:</p>"
              + "<ul>"
              + "<li><a href='/days'>View all days of the week</a></li>"
